@@ -5,6 +5,7 @@ This project is an **Agent-Based Model (ABM)** built in **NetLogo** to simulate 
 It provides insights into the dynamics of renewable adoption, grid stability, and economic policies under different scenarios.
 
 ---
+![image_alt](https://github.com/dileek12/ABM_group_Assignment/blob/7d40b3ae243688fe29f82de8300cf5e7ea4082a2/references/Abstract.jpg)
 
 ## 🚀 What is it?
 
