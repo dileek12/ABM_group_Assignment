@@ -6,6 +6,7 @@ It provides insights into the dynamics of renewable adoption, grid stability, an
 
 ---
 ![image_alt](https://github.com/dileek12/ABM_group_Assignment/blob/7d40b3ae243688fe29f82de8300cf5e7ea4082a2/references/Abstract.jpg)
+---
 
 ## 🚀 What is it?
 
