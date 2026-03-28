@@ -1,4 +1,4 @@
-# An Agent-Based Approach for Sri Lanka’s Renewable Energy Transition
+# An Agent-Based Approach for Sri Lanka’s Renewable Energy Transitio
 
 This project is an **Agent-Based Model (ABM)** built in **NetLogo** to simulate Sri Lanka’s electrical power grid system with enhanced renewable energy integration and advanced battery energy storage management.  
 
